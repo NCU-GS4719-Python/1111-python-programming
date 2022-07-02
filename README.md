@@ -1,10 +1,16 @@
 # :loudspeaker: 資訊公告
-* [預約Office Hour](https://tidycal.com/benctw/ncu-chiakai-chang-office-hour)
+* [預約Office Hour](https://ncuedu.tw/office-hour)
 
 
-# :loudspeaker: 關於「GS4719 程式設計-Python」
-上課時間：三567 (13:00~15:50)<br>
-實體上課教室：I-202 (志希館-202)<br>
+# :loudspeaker: 關於「GS4719-A 程式設計-Python」
+上課時間：三567 (13:00~15:50)\
+實體上課教室：I-202 (志希館-202)\
+12
+# :loudspeaker: 課程目標
+1. Python程式語言原生語法並運用
+1. 
+
+# :loudspeaker: 評分方式
 
 
 同學可在本課程習得：
